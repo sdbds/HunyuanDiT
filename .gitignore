@@ -137,3 +137,6 @@ trt/activate.sh
 trt/deactivate.sh
 *.onnx
 ckpts/
+dataset/
+log*
+huggingface/
